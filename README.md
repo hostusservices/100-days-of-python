@@ -4,3 +4,4 @@
  Day 3: IF_Else & Nested if_else & Logical operators & tresure island game
  Day 4: Ramdomisation and Python Lists
  Day 5: Python Loop
+ Day 6: Functions, Indentation , While Loop
