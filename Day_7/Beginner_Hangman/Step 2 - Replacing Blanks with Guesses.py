@@ -1,25 +1,18 @@
 import random
-
-word_list = ["apple", "banana", "cherry", "date", "elderberry", "fig", "grape", "honeydew"]
+word_list = ["aardvark", "baboon", "camel"]
 
 chosen_word = random.choice(word_list)
 print(chosen_word)
 
-placeholder = ""
+# TODO-1: Create a "placeholder" with the same number of blanks as the chosen_word
 
-word_length = len(chosen_word)
+guess = input("Guess a letter: ").lower()
 
-for position in range(word_length):
-    placeholder += "_"
-print(placeholder)
-
-guess = input("Guess the letter:").lower()
-
-display = ""
+# TODO-2: Create a "display" that puts the guess letter in the right positions and _ in the rest of the string.
 
 for letter in chosen_word:
     if letter == guess:
-       display += letter
+        print("Right")
     else:
-       display += "_"
-print(display)
+        print("Wrong")
+
