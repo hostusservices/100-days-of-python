@@ -5,3 +5,4 @@
  Day 4: Ramdomisation and Python Lists
  Day 5: Python Loop
  Day 6: Functions, Indentation , While Loop
+ Day 7: Beginners Hangman
