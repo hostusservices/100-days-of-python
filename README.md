@@ -6,3 +6,4 @@
  Day 5: Python Loop
  Day 6: Functions, Indentation , While Loop
  Day 7: Beginners Hangman
+ Day 8: Beginners Functions Parameters & Ceasar ciphar example
