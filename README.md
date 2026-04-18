@@ -8,3 +8,4 @@
  Day 7: Beginners Hangman
  Day 8: Beginners Functions Parameters & Ceasar ciphar example
  Day 9: Dictionaries, Nestesd List and Dictionaries, Blind Auctions Project
+ Day 10: Beginner Functions with Output & Calculator Project
